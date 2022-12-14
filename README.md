@@ -6,6 +6,7 @@ Preparing, analyasing and pushing data to BigQuery cloud
 
 [![Python][Python.com]][Python-url]
 [![SQL][SQL.com]][SQL-url]
+[![Jupyter][Jupyter.com]][Jupyter-url]
 [![Google][Google.com]][Google-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -13,5 +14,7 @@ Preparing, analyasing and pushing data to BigQuery cloud
 [Python-url]: https://www.python.org/
 [SQL.com]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [SQL-url]: https://www.mysql.com/
+[Jupyter.com]: https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter
+[Jupyter-url]: https://jupyter.org/
 [Google.com]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 [Google-url]: https://cloud.google.com/
